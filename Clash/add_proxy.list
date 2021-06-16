@@ -1,2 +1,3 @@
 # 自用的走代理规则
 DOMAIN-SUFFIX,stc-cloudserver.com
+DOMAIN-SUFFIX,zotero.org
