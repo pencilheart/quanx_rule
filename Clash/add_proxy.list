@@ -1,8 +1,6 @@
 # 自用的走代理规则
 DOMAIN-SUFFIX,stc-cloudserver.com
-DOMAIN-SUFFIX,libgen.li
-DOMAIN-SUFFIX,libgen.gs
-DOMAIN-SUFFIX,libgen.me
+DOMAIN-KEYWORD,libgen
 DOMAIN-SUFFIX,library.lol
 DOMAIN-SUFFIX,3lib.net
 DOMAIN-SUFFIX,en.bookfi.net
