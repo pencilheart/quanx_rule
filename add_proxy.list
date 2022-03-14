@@ -5,5 +5,6 @@ DOMAIN-SUFFIX,library.lol
 DOMAIN-SUFFIX,3lib.net
 DOMAIN-SUFFIX,en.bookfi.net
 
-# 加拿大bell运营商
+# 加拿大运营商
 DOMAIN-KEYWORD,bell
+DOMAIN-KEYWORD,fido
