@@ -1,0 +1,61 @@
+# 自用的直连规则
+# 此规则适用于学校校园网已经购买论文网站版权，通过校园网的直连才能具备该免费下载的权限。
+
+# appstorrent官网
+DOMAIN-KEYWORD,appstorrent,direct
+
+# appstorrent下载网盘
+DOMAIN,vk.com,direct
+DOMAIN-KEYWORD,userapi,direct
+
+# 学术
+DOMAIN-KEYWORD,shapr3d,direct
+DOMAIN-KEYWORD,sci-hub,direct
+DOMAIN-KEYWORD,zotero.org,direct
+
+#规则集
+DOMAIN-KEYWORD,jsdelivr,direct
+
+# 国内软件
+DOMAIN-KEYWORD,mathpix.com,direct
+
+# 国内期刊
+DOMAIN-SUFFIX,blyun.com,direct
+DOMAIN-SUFFIX,chaoxing.com,direct
+DOMAIN-SUFFIX,cnki.net,direct
+DOMAIN-SUFFIX,cqvip.com,direct
+DOMAIN-SUFFIX,duxiu.com,direct
+DOMAIN-SUFFIX,wanfangdata.com.cn,direct
+
+# 国际期刊
+DOMAIN-SUFFIX,acs.org,direct
+DOMAIN-SUFFIX,agupubs.onlinelibrary.wiley.com,direct
+DOMAIN-SUFFIX,aiaa.org,direct
+DOMAIN-SUFFIX,begellhouse.com,direct
+DOMAIN-SUFFIX,blackwell-synergy.com,direct
+DOMAIN-SUFFIX,cabdirect.org,direct
+DOMAIN-SUFFIX,cambridge.org,direct
+DOMAIN-SUFFIX,ebscohost.com,direct
+DOMAIN-SUFFIX,els-cdn.com,direct
+DOMAIN-SUFFIX,elsevier.com,direct
+DOMAIN-SUFFIX,ieee.org,direct
+DOMAIN-SUFFIX,iop.com,direct
+DOMAIN-SUFFIX,iop.org,direct
+DOMAIN-SUFFIX,jstor.org,direct
+DOMAIN-SUFFIX,link.springer.com,direct
+DOMAIN-SUFFIX,nature.com,direct
+DOMAIN-SUFFIX,osapublishing.org,direct
+DOMAIN-SUFFIX,pnas.org,direct
+DOMAIN-SUFFIX,pubs.geoscienceworld.org,direct
+DOMAIN-SUFFIX,researchgate.net,direct
+DOMAIN-SUFFIX,rsc.org,direct
+DOMAIN-SUFFIX,sciencedirect.com,direct
+DOMAIN-SUFFIX,sciencedirectassets.com,direct
+DOMAIN-SUFFIX,sciencemag.org,direct
+DOMAIN-SUFFIX,spiedigitallibrary.org,direct
+DOMAIN-SUFFIX,springer.com,direct
+DOMAIN-SUFFIX,springernature.com,direct
+DOMAIN-SUFFIX,taylorfrancis.com,direct
+DOMAIN-SUFFIX,thesaurus.yourdictionary.com,direct
+DOMAIN-SUFFIX,webofknowledge.com,direct
+DOMAIN-SUFFIX,wiley.com,direct
