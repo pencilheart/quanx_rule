@@ -1,33 +1,33 @@
 # 自用的走代理规则
-DOMAIN-SUFFIX,stc-cloudserver.com,全球加速
-DOMAIN-KEYWORD,libgen,全球加速
-DOMAIN-SUFFIX,library.lol,全球加速
-DOMAIN-SUFFIX,3lib.net,全球加速
-DOMAIN-SUFFIX,en.bookfi.net,全球加速
+DOMAIN-SUFFIX,stc-cloudserver.com
+DOMAIN-KEYWORD,libgen
+DOMAIN-SUFFIX,library.lol
+DOMAIN-SUFFIX,3lib.net
+DOMAIN-SUFFIX,en.bookfi.net
 
 # 爱壹帆视频
-DOMAIN-KEYWORD,iyf,全球加速
-DOMAIN,www.v2ex.com,全球加速
-DOMAIN-KEYWORD,amysecure,全球加速
+DOMAIN-KEYWORD,iyf
+DOMAIN,www.v2ex.com
+DOMAIN-KEYWORD,amysecure
 
 # 学术
-DOMAIN,dergipark.org.tr,全球加速
-DOMAIN-KEYWORD,zotero,全球加速
+DOMAIN,dergipark.org.tr
+DOMAIN-KEYWORD,zotero
 
 # FLOW3D
-DOMAIN-KEYWORD,flow3d,全球加速
+DOMAIN-KEYWORD,flow3d
 
 # CSL-style-edit
-DOMAIN,www.editor.citationstyles.org,全球加速
+DOMAIN,www.editor.citationstyles.org
 
 # 3D共聚焦官网
-DOMAIN-KEYWORD,olympus-ims.com,全球加速
+DOMAIN-KEYWORD,olympus-ims.com
 
 # 破解软件网站
-DOMAIN,macked.app,全球加速
-DOMAIN,haxmac.cc,全球加速
+DOMAIN,macked.app
+DOMAIN,haxmac.cc
 
 # 加拿大运营商
-DOMAIN-KEYWORD,bell,全球加速
-DOMAIN-KEYWORD,fido,全球加速
-DOMAIN-SUFFIX,torontohydro.com,全球加速
+DOMAIN-KEYWORD,bell
+DOMAIN-KEYWORD,fido
+DOMAIN-SUFFIX,torontohydro.com
