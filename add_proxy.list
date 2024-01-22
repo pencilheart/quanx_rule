@@ -32,3 +32,8 @@ DOMAIN,haxmac.cc
 DOMAIN-KEYWORD,bell
 DOMAIN-KEYWORD,fido
 DOMAIN-SUFFIX,torontohydro.com
+
+# 播客podcast
+host, bbc.mp-pxcdn.com
+host, content.production.cdn.art19.com
+host, rss.art19.com
