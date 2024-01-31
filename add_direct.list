@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,userapi
 # 学术
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,zotero.org
+host,doi.org
 
 #规则集
 DOMAIN-KEYWORD,jsdelivr
