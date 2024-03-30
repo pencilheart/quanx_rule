@@ -16,7 +16,7 @@ DOMAIN,dergipark.org.tr
 DOMAIN-KEYWORD,zotero
 host, www.mathworks.com
 DOMAIN-SUFFIX,researchgate.net
-host,z-lib.id
+host, z-lib.id
 
 # FLOW3D
 DOMAIN-KEYWORD,flow3d
