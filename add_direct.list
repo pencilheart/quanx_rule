@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,jsdelivr
 
 # 国内软件
 DOMAIN-KEYWORD,mathpix.com
+host,iosapps.itunes.apple.com
 
 # 国内期刊
 DOMAIN-SUFFIX,blyun.com
