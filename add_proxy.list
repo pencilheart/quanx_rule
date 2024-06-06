@@ -1,23 +1,24 @@
 # 自用的走代理规则
-DOMAIN-SUFFIX,stc-cloudserver.com
-DOMAIN-KEYWORD,libgen
-DOMAIN-SUFFIX,library.lol
-DOMAIN-SUFFIX,3lib.net
-DOMAIN-SUFFIX,en.bookfi.net
-
-# 爱壹帆视频
-DOMAIN-KEYWORD,iyf
-DOMAIN,www.v2ex.com
 DOMAIN-KEYWORD,amysecure
+DOMAIN-SUFFIX,stc-cloudserver.com
+DOMAIN,www.v2ex.com
+DOMAIN-KEYWORD,iyf
+
+# sharp3D
+DOMAIN-KEYWORD,shapr3d
+DOMAIN,cdn.prod.website-files
 
 # 学术
-DOMAIN-KEYWORD,shapr3d
 DOMAIN-KEYWORD,storage-cf-usw
 DOMAIN,dergipark.org.tr
 DOMAIN-KEYWORD,zotero
 host, www.mathworks.com
 DOMAIN-SUFFIX,researchgate.net
 host, z-lib.id
+DOMAIN-KEYWORD,libgen
+DOMAIN-SUFFIX,library.lol
+DOMAIN-SUFFIX,3lib.net
+DOMAIN-SUFFIX,en.bookfi.net
 
 # FLOW3D
 DOMAIN-KEYWORD,flow3d
