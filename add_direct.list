@@ -13,6 +13,8 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,zotero.org
 host,doi.org
 
+# Tailscale
+IP-CIDR,100.64.0.0/10
 #规则集
 DOMAIN-KEYWORD,jsdelivr
 
