@@ -1,7 +1,7 @@
 # 自用的走代理规则
 DOMAIN-KEYWORD,amysecure
 DOMAIN-SUFFIX,stc-cloudserver.com
-DOMAIN,www.v2ex.com
+DOMAIN-KEYWORD,v2ex
 DOMAIN-KEYWORD,iyf
 DOMAIN-KEYWORD,g2crowd
 DOMAIN-KEYWORD,gpsoft
