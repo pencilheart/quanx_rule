@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,en.bookfi.net
 DOMAIN-KEYWORD,citationstyles
 DOMAIN-KEYWORD,sagepub
 host,sagepub.com
+host,journals.sagepub.com
 
 
 # FLOW3D
