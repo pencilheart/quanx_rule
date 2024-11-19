@@ -1,9 +1,6 @@
 # 自用的直连规则
 # 此规则适用于学校校园网已经购买论文网站版权，通过校园网的直连才能具备该免费下载的权限。
 
-# appstorrent官网
-DOMAIN-KEYWORD,appstorrent
-
 # appstorrent下载网盘
 DOMAIN,vk.com
 DOMAIN-KEYWORD,userapi
