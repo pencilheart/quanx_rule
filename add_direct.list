@@ -2,64 +2,64 @@
 # 此规则适用于学校校园网已经购买论文网站版权，通过校园网的直连才能具备该免费下载的权限。
 
 # appstorrent下载网盘
-DOMAIN,vk.com
-DOMAIN-KEYWORD,userapi
+host,vk.com
+host-keyword,userapi
 # Marked下载网盘
-DOMAIN-KEYWORD,mediafire
-DOMAIN-SUFFIX,userapi.com
+host-keyword,mediafire
+host-suffix,userapi.com
 
 # 学术
-DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,zotero.org
+host-keyword,sci-hub
+host-keyword,zotero.org
 host,doi.org
 
 # Tailscale
-IP-CIDR,100.64.0.0/10
+ip-cird,100.64.0.0/10
 #规则集
-DOMAIN-KEYWORD,jsdelivr
+host-keyword,jsdelivr
 
 # 国内软件
-DOMAIN-KEYWORD,mathpix.com
+host-keyword,mathpix.com
 host,iosapps.itunes.apple.com
 
 # 国内期刊
-DOMAIN-SUFFIX,blyun.com
-DOMAIN-SUFFIX,chaoxing.com
-DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,cqvip.com
-DOMAIN-SUFFIX,duxiu.com
-DOMAIN-SUFFIX,wanfangdata.com.cn
+host-suffix,blyun.com
+host-suffix,chaoxing.com
+host-suffix,cnki.net
+host-suffix,cqvip.com
+host-suffix,duxiu.com
+host-suffix,wanfangdata.com.cn
 # JAC
-DOMAIN-KEYWORD,jacer
+host-keyword,jacer
 
 # 国际期刊
-DOMAIN-SUFFIX,acs.org
-DOMAIN-SUFFIX,agupubs.onlinelibrary.wiley.com
-DOMAIN-SUFFIX,aiaa.org
-DOMAIN-SUFFIX,begellhouse.com
-DOMAIN-SUFFIX,blackwell-synergy.com
-DOMAIN-SUFFIX,cabdirect.org
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,ebscohost.com
-DOMAIN-SUFFIX,els-cdn.com
-DOMAIN-SUFFIX,elsevier.com
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,iop.com
-DOMAIN-SUFFIX,iop.org
-DOMAIN-SUFFIX,jstor.org
-DOMAIN-SUFFIX,link.springer.com
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,osapublishing.org
-DOMAIN-SUFFIX,pnas.org
-DOMAIN-SUFFIX,pubs.geoscienceworld.org
-DOMAIN-SUFFIX,rsc.org
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-SUFFIX,sciencedirectassets.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,spiedigitallibrary.org
-DOMAIN-SUFFIX,springer.com
-DOMAIN-SUFFIX,springernature.com
-DOMAIN-SUFFIX,taylorfrancis.com
-DOMAIN-SUFFIX,thesaurus.yourdictionary.com
-DOMAIN-SUFFIX,webofknowledge.com
-DOMAIN-SUFFIX,wiley.com
+host-suffix,acs.org
+host-suffix,agupubs.onlinelibrary.wiley.com
+host-suffix,aiaa.org
+host-suffix,begellhouse.com
+host-suffix,blackwell-synergy.com
+host-suffix,cabdirect.org
+host-suffix,cambridge.org
+host-suffix,ebscohost.com
+host-suffix,els-cdn.com
+host-suffix,elsevier.com
+host-suffix,ieee.org
+host-suffix,iop.com
+host-suffix,iop.org
+host-suffix,jstor.org
+host-suffix,link.springer.com
+host-suffix,nature.com
+host-suffix,osapublishing.org
+host-suffix,pnas.org
+host-suffix,pubs.geoscienceworld.org
+host-suffix,rsc.org
+host-suffix,sciencedirect.com
+host-suffix,sciencedirectassets.com
+host-suffix,sciencemag.org
+host-suffix,spiedigitallibrary.org
+host-suffix,springer.com
+host-suffix,springernature.com
+host-suffix,taylorfrancis.com
+host-suffix,thesaurus.yourdictionary.com
+host-suffix,webofknowledge.com
+host-suffix,wiley.com

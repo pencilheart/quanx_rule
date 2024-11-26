@@ -1,51 +1,51 @@
 # 自用的走代理规则
-DOMAIN-KEYWORD,amysecure
-DOMAIN-SUFFIX,stc-cloudserver.com
-DOMAIN-KEYWORD,v2ex
-DOMAIN-KEYWORD,iyf
-DOMAIN-KEYWORD,g2crowd
-DOMAIN-KEYWORD,gpsoft
-DOMAIN-KEYWORD,ke-complex-modifications
+host-keyword,amysecure
+host-suffix,stc-cloudserver.com
+host-keyword,v2ex
+host-keyword,iyf
+host-keyword,g2crowd
+host-keyword,gpsoft
+host-keyword,ke-complex-modifications
 
 # sharp3D
-DOMAIN-KEYWORD,shapr3d
-DOMAIN,cdn.prod.website-files
+host-keyword,shapr3d
+host,cdn.prod.website-files
 
 # 学术
-DOMAIN-KEYWORD,storage-cf-usw
-DOMAIN,dergipark.org.tr
-DOMAIN-KEYWORD,zotero
+host-keyword,storage-cf-usw
+host,dergipark.org.tr
+host-keyword,zotero
 host, www.mathworks.com
 host, download-mac.grammarly.com
-DOMAIN-SUFFIX,researchgate.net
+host-suffix,researchgate.net
 host, z-lib.id
-DOMAIN-KEYWORD,libgen
-DOMAIN-SUFFIX,library.lol
-DOMAIN-SUFFIX,3lib.net
-DOMAIN-SUFFIX,en.bookfi.net
-DOMAIN-KEYWORD,citationstyles
+host-keyword,libgen
+host-suffix,library.lol
+host-suffix,3lib.net
+host-suffix,en.bookfi.net
+host-keyword,citationstyles
 host, journals.sagepub.com
 
 
 # FLOW3D
-DOMAIN-KEYWORD,flow3d
+host-keyword,flow3d
 
 # CSL-style-edit
-DOMAIN,www.editor.citationstyles.org
+host,www.editor.citationstyles.org
 
 # 3D共聚焦官网
-DOMAIN-KEYWORD,olympus-ims.com
+host-keyword,olympus-ims.com
 
 # 破解软件网站
-DOMAIN,macked.app
-DOMAIN,haxmac.cc
-DOMAIN-KEYWORD,appstorrent
+host,macked.app
+host,haxmac.cc
+host-keyword,appstorrent
 
 # 加拿大运营商
-DOMAIN-KEYWORD,bell
-DOMAIN-KEYWORD,fido
-DOMAIN-SUFFIX,torontohydro.com
-DOMAIN-KEYWORD,fongo
+host-keyword,bell
+host-keyword,fido
+host-suffix,torontohydro.com
+host-keyword,fongo
 
 # 播客podcast
 host, bbc.mp-pxcdn.com
