@@ -5,10 +5,12 @@
 
 # appstorrent下载网盘
 host-suffix,vk.com
+host-suffix,userapi.com
+
 # Marked网站及下载网盘
 host-suffix,macked.app
 host-suffix,mediafire.com
-host-suffix,userapi.com
+
 
 # 学术
 host-suffix,sci-hub.com
