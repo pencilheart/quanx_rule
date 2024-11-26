@@ -1,12 +1,6 @@
 # 自用的走代理规则
 # 示例：host-suffix,xxx
 
-# 海淘
-host-suffix,coachoutlet.com
-host-suffix,toryburch.com
-host-suffix,sephora.com
-
-
 host-suffix,amysecure.com
 host-suffix,stc-cloudserver.com
 host-suffix,v2ex.com
