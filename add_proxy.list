@@ -1,6 +1,10 @@
 # 自用的走代理规则
 # 示例：host-suffix,xxx
 
+# 海淘
+host-suffix,coachoutlet.com
+host-suffix,toryburch.com
+
 
 host-suffix,amysecure.com
 host-suffix,stc-cloudserver.com
@@ -45,9 +49,6 @@ host-suffix,appstorrent.com
 host-suffix,ca
 host-suffix,torontohydro.com
 host-suffix,fongo.com
-
-# 海淘
-host-suffix,coachoutlet.com
 
 # 播客podcast
 host-suffix, bbc.mp-pxcdn.com
