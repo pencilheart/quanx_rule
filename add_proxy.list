@@ -46,6 +46,8 @@ host-suffix,ca
 host-suffix,torontohydro.com
 host-suffix,fongo.com
 
+# 海淘
+host-suffix,coachoutlet.com
 
 # 播客podcast
 host-suffix, bbc.mp-pxcdn.com
