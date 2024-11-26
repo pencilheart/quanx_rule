@@ -1,4 +1,7 @@
 # 自用的走代理规则
+# 示例：host-suffix,xxx
+
+
 host-suffix,amysecure.com
 host-suffix,stc-cloudserver.com
 host-suffix,v2ex.com
@@ -17,7 +20,7 @@ host-suffix,dergipark.org.tr
 host-suffix,mathworks.com
 host-suffix,download-mac.grammarly.com
 host-suffix,researchgate.net
-host-suffix, z-lib.id
+host-suffix,z-lib.id
 host-suffix,libgen.com
 host-suffix,library.lol
 host-suffix,3lib.net
@@ -42,6 +45,7 @@ host-suffix,appstorrent.com
 host-suffix,ca
 host-suffix,torontohydro.com
 host-suffix,fongo.com
+
 
 # 播客podcast
 host-suffix, bbc.mp-pxcdn.com
