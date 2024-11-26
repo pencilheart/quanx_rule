@@ -38,9 +38,8 @@ host-suffix,olympus-ims.com
 host-suffix,haxmac.cc
 host-suffix,appstorrent.com
 
-# 加拿大运营商
-host-suffix,bell.ca
-host-suffix,fido.ca
+# 加拿大
+host-suffix,ca
 host-suffix,torontohydro.com
 host-suffix,fongo.com
 
