@@ -6,6 +6,7 @@ DOMAIN,vk.com
 DOMAIN-KEYWORD,userapi
 # Marked下载网盘
 DOMAIN-KEYWORD,mediafire
+DOMAIN-SUFFIX,userapi.com
 
 # 学术
 DOMAIN-KEYWORD,sci-hub
