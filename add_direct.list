@@ -19,6 +19,7 @@ ip-cird,100.64.0.0/10
 
 #规则集
 host-suffix,jsdelivr.com
+host-suffix,jsdelivr.net
 
 # 国内软件
 host-suffix,mathpix.com
