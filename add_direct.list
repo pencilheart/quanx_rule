@@ -1,25 +1,27 @@
 # 自用的直连规则
 # 此规则适用于学校校园网已经购买论文网站版权，通过校园网的直连才能具备该免费下载的权限。
 
+# marked网站
+host-suffix,macked.app
 # appstorrent下载网盘
 host,vk.com
-host-keyword,userapi
 # Marked下载网盘
-host-keyword,mediafire
+host-suffix,mediafire.com
 host-suffix,userapi.com
 
 # 学术
-host-keyword,sci-hub
-host-keyword,zotero.org
+host-suffix,sci-hub.com
+host-suffix,zotero.org
 host,doi.org
 
 # Tailscale
 ip-cird,100.64.0.0/10
+
 #规则集
-host-keyword,jsdelivr
+host-suffix,jsdelivr.com
 
 # 国内软件
-host-keyword,mathpix.com
+host-suffix,mathpix.com
 host,iosapps.itunes.apple.com
 
 # 国内期刊
@@ -30,7 +32,7 @@ host-suffix,cqvip.com
 host-suffix,duxiu.com
 host-suffix,wanfangdata.com.cn
 # JAC
-host-keyword,jacer
+host-suffix,sciopen.com
 
 # 国际期刊
 host-suffix,acs.org

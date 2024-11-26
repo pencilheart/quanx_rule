@@ -1,53 +1,50 @@
 # 自用的走代理规则
-host-keyword,amysecure
+host-suffix,amysecure.com
 host-suffix,stc-cloudserver.com
-host-keyword,v2ex
-host-keyword,iyf
-host-keyword,g2crowd
-host-keyword,gpsoft
-host-keyword,ke-complex-modifications
+host-suffix,v2ex.com
+host-suffix,iyf.com
+host-suffix,g2crowd.com
+host-suffix,gpsoft.com
+host-suffix,ke-complex-modifications.com
 
 # sharp3D
-host-keyword,shapr3d
+host-suffix,shapr3d.com
 host,cdn.prod.website-files
 
 # 学术
-host-keyword,storage-cf-usw
-host,dergipark.org.tr
-host-keyword,zotero
-host, www.mathworks.com
-host, download-mac.grammarly.com
+host-suffix,storage-cf-usw.com
+host-suffix,dergipark.org.tr
+host-suffix,mathworks.com
+host-suffix,download-mac.grammarly.com
 host-suffix,researchgate.net
-host, z-lib.id
-host-keyword,libgen
+host-suffix, z-lib.id
+host-suffix,libgen.com
 host-suffix,library.lol
 host-suffix,3lib.net
 host-suffix,en.bookfi.net
-host-keyword,citationstyles
-host, journals.sagepub.com
+host-suffix,journals.sagepub.com
 
 
 # FLOW3D
-host-keyword,flow3d
+host-suffix,flow3d.com
 
 # CSL-style-edit
-host,www.editor.citationstyles.org
+host-suffix,citationstyles.org
 
 # 3D共聚焦官网
-host-keyword,olympus-ims.com
+host-suffix,olympus-ims.com
 
 # 破解软件网站
-host,macked.app
-host,haxmac.cc
-host-keyword,appstorrent
+host-suffix,haxmac.cc
+host-suffix,appstorrent.com
 
 # 加拿大运营商
-host-keyword,bell
-host-keyword,fido
+host-suffix,bell.ca
+host-suffix,fido.ca
 host-suffix,torontohydro.com
-host-keyword,fongo
+host-suffix,fongo.com
 
 # 播客podcast
-host, bbc.mp-pxcdn.com
-host, content.production.cdn.art19.com
-host, rss.art19.com
+host-suffix, bbc.mp-pxcdn.com
+host-suffix, content.production.cdn.art19.com
+host-suffix, rss.art19.com
