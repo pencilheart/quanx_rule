@@ -9,10 +9,6 @@ host-suffix,g2crowd.com
 host-suffix,gpsoft.com
 host-suffix,ke-complex-modifications.com
 
-# sharp3D
-host-suffix,shapr3d.com
-host,cdn.prod.website-files
-
 # 学术
 host-suffix,storage-cf-usw.com
 host-suffix,dergipark.org.tr
@@ -26,6 +22,9 @@ host-suffix,3lib.net
 host-suffix,en.bookfi.net
 host-suffix,journals.sagepub.com
 
+# sharp3D
+host-suffix,shapr3d.com
+host,cdn.prod.website-files
 
 # FLOW3D
 host-suffix,flow3d.com
@@ -40,10 +39,6 @@ host-suffix,olympus-ims.com
 host-suffix,haxmac.cc
 host-suffix,appstorrent.ru
 
-# 加拿大
-host-suffix,ca
-host-suffix,torontohydro.com
-host-suffix,fongo.com
 
 # 播客podcast
 host-suffix, bbc.mp-pxcdn.com

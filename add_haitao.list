@@ -2,3 +2,9 @@
 host-suffix,coachoutlet.com
 host-suffix,toryburch.com
 host-suffix,sephora.com
+
+
+# 加拿大
+host-suffix,ca
+host-suffix,torontohydro.com
+host-suffix,fongo.com
