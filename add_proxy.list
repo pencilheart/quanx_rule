@@ -8,7 +8,7 @@ host-suffix,iyf.com
 host-suffix,g2crowd.com
 host-suffix,gpsoft.com
 host-suffix,ke-complex-modifications.com
-host,app.codegpt.co
+host-suffix,codegpt.co
 
 # 学术
 host-suffix,storage-cf-usw.com
