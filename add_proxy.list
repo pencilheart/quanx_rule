@@ -10,6 +10,7 @@ host-suffix,gpsoft.com
 host-suffix,ke-complex-modifications.com
 host-suffix,codegpt.co
 
+
 # 学术
 host-suffix,storage-cf-usw.com
 host-suffix,dergipark.org.tr
@@ -22,6 +23,9 @@ host-suffix,library.lol
 host-suffix,3lib.net
 host-suffix,en.bookfi.net
 host-suffix,journals.sagepub.com
+
+# zettlr
+host-suffix,zettlr.com
 
 # sharp3D
 host-suffix,shapr3d.com
