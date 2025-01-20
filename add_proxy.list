@@ -42,7 +42,7 @@ host-suffix,olympus-ims.com
 
 # 破解软件网站
 host-suffix,haxmac.cc
-host-suffix,appstorrent.ru
+# host-suffix,appstorrent.ru
 
 
 # 播客podcast
