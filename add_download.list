@@ -1,0 +1,12 @@
+# 自用的直连规则
+# 示例：host-suffix,xxx
+
+
+
+# appstorrent下载网盘
+host-suffix,vk.com
+host-suffix,userapi.com
+
+# Marked下载网盘
+host-suffix,mediafire.com
+

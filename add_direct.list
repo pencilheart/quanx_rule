@@ -2,15 +2,9 @@
 # 示例：host-suffix,xxx
 
 
-
-# appstorrent下载网盘
+# appstorrent、Marked网站
 host-suffix,appstorrent.ru
-host-suffix,vk.com
-host-suffix,userapi.com
-
-# Marked网站及下载网盘
 host-suffix,macked.app
-host-suffix,mediafire.com
 
 
 # 学术
