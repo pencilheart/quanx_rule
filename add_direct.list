@@ -11,6 +11,7 @@ host-suffix,macked.app
 host-suffix,sci-hub.com
 host-suffix,zotero.org
 host,doi.org
+host-suffix,challenges.cloudflare.com
 
 # Tailscale
 ip-cird,100.64.0.0/10
