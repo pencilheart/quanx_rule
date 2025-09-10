@@ -26,6 +26,9 @@ host-suffix,3lib.net
 host-suffix,en.bookfi.net
 host-suffix,journals.sagepub.com
 
+# USA网站
+host,www.faa.gov
+
 # zettlr
 host-suffix,zettlr.com
 
