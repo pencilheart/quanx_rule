@@ -4,8 +4,9 @@ host-suffix,toryburch.com
 host-suffix,sephora.com
 host-keyword,lululemon
 
-#USA
+# USA
 host-suffix,nasa.gov
+host-suffix,ssrn.com
 
 # 加拿大
 host-suffix,ca
